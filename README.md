@@ -88,6 +88,8 @@ To run this analysis on your own machine, follow these steps:
 Created by **Vineet Kumar Chaudhary** - feel free to reach out!
 
 * **📧Email**: [chaudharyvineet730@gmail.com](mailto:chaudharyvineet730@gmail.com)
-* **🚀GitHub**: `https://github.com/curiouschaudhary` 
+* **🚀GitHub**:    `https://github.com/curiouschaudhary`
+* **💼LinkedIn**:  `https://www.linkedin.com/in/vineetkumarchaudhary/`
+* **🐦X(Twiter)**  `https://x.com/curiouschaudhri`
 
 If you have any questions, find a bug, or would like to collaborate on a project, please don't hesitate to get in touch.
